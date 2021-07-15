@@ -1,13 +1,13 @@
 const CONFIG = {
-    introTitle: 'Lam à!',
+    introTitle: 'lam à!',
     introDesc: `trên vũ trụ này t thích nhất 3 thứ
     thứ nhất là mặt trời
     thứ hai là mặt trăng
-    thứ ba là Lam
+    thứ ba là lam
     mặt trời for the morning
     mặt trăng for the night
-    còn Lam 
-    Forever
+    còn lam 
+    forever
     btnIntro: 'kkk',
     title: 'okay anh đã trằn trọc suốt đêm qua để đặt ra một câu hỏi là?',
     desc: 'tại sao em lại kêu anh là bede? ',
