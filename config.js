@@ -16,6 +16,4 @@ const CONFIG = {
     question:'Trên thế giới này có hơn 7 tỉ nụ cười <3',
     btnReply: 'nhưng mà với anh,nụ cười của em mới là đẹp nhất <3',
     reply: 'thế nên là làm ơnnnnnnn! <33333333',
-    mess: 'hãy để anh giúp em giữ nụ cười của em trên môi!',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    mess: 'hãy để anh giúp em giữ nụ cười của em trên môi!'
