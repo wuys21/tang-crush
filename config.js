@@ -4,8 +4,8 @@ const CONFIG = {
     thứ nhất là mặt trời
     thứ hai là mặt trăng
     thứ ba là lam
-    the sun for the morning
-    the moon for the night
+    mặt trời for the morning
+    mặt trăng for the night
     còn lam 
     forever
     btnIntro: 'kkk',
